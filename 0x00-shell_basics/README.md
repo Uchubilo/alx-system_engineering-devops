@@ -1,1 +1,1 @@
-Display Digit dir
+first directory
