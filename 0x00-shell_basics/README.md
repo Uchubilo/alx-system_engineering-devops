@@ -1,1 +1,1 @@
-Delete betty
+Deletes Dir
