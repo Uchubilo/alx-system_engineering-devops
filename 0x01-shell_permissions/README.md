@@ -1,1 +1,1 @@
-Create betty
+who am i
