@@ -1,1 +1,1 @@
-display file
+last 10 line
