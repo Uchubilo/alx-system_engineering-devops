@@ -1,1 +1,1 @@
-no js
+hidden
